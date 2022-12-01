@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luis Aue"
+title                    : "Dr. Luis Aue"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Dr. Luis Aue"
+description              : &description "Political Scientist - Global Humanitarian Medicine"
 url                      : https://luisauehu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luisaueHU/luisauehu.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luis Aue"
+  name             : "Dr. Luis Aue"
   avatar           : "profile.jpeg"
-  bio              : "Political Scientist"
+  bio              : "Political Scientist, Global Humanitarian Medicine"
   location         : "Berlin, Germany"
-  employer         :
+  employer         : "Humboldt University, Berlin
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
