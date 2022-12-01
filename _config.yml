@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Luis Aue"
+title                    : "Dr Luis Aue"
 title_separator          : "-"
-name                     : &name "Dr. Luis Aue"
+name                     : &name "Dr Luis Aue"
 description              : &description "Political Scientist - Global Humanitarian Medicine"
 url                      : https://luisauehu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
