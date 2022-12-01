@@ -29,10 +29,11 @@ Aue, Luis /Tine Hanrieder (2019): Peripheral Innovation: The Dental Therapist Mo
 # Publications under review
 (with Tine Hanrieder): Medical Worlds and the Construction of Culture: Community Health Workers between Evidence-Based and Community Medicine.
 
+Constituting International Politics as Governing the In-Between:A Praxeological Analysis of the International Sanitary Conference of
+1892" 
+
 # Publications in preparation
 Policies of Inequity. A Global History of Diarrheal Diseases (Book project).
-
-Constituting International Politics as Governing the In-Between. Objectual Politics at the International Sanitary of Conference of 1892.
 
 How Professions Maintain Coloniality. The History of Travel Medicine.
 
