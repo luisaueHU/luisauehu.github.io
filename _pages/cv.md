@@ -9,51 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+10/2021-03/2022 Wissenschaftlicher Mitarbeiter, Cluster of Excellence “Contestations of the Liberal Script (SCRIPTS)”, Freie Universität Berlin
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+06/2017-02/2022 Wissenschaftlicher Mitarbeiter in der Nachwuchsgruppe Globale humanitäre Medizin, WZB
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+09/2020–12/2020 Visiting Junior Fellow, Center on Conflict, Development & Peacebuilding, Graduate Institute for International and Development Studies, Geneva
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+04/2019–06/2019 Visiting Graduate Student, Department of the History of Medicine, Johns Hopkins University, Baltimore
+
+10/2015–05/2017 Wissenschaftliche Hilfskraft in der Abteilung Global Governance revisited, Centre for Global Cooperation Research, Duisburg
+
+10/2011–12/2015 MSc in Volkswirtschaftslehre, Universität Duisburg-Essen
+
+10/2012–09/2013 MSc in Governance and Policy, University of Southhampton
+
+10/2007–03/2011 BA in Geschichte und Volkswirtschaft, Universität Göttingen
