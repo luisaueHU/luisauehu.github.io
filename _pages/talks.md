@@ -5,16 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
 Experts, authority and the ontopolitics of the International at the International Sanitary Conference of 1892, 15th Pan-European Conference on International Relations, Athens, September 2022.
 
 The making of a traveler’s diarrhea: A contribution to the postcolonial sociology of medicine, Annual conference Society for the Advancement of Socio-Economics, Mini-conference Decolonizing Development (organized by Julian Go, Zophia Edwards, and Alexandre White), Amsterdam, July 2022.
