@@ -27,8 +27,6 @@ Aue, Luis (2022): Inequality in Global Health Expertise – and Steps Toward a P
 Aue, Luis /Tine Hanrieder (2019): Peripheral Innovation: The Dental Therapist Movement in the US, Orders Beyond Borders blog, posted on 29 January 2019.
 
 # Publications under review
-(with Tine Hanrieder): Medical Worlds and the Construction of Culture: Community Health Workers between Evidence-Based and Community Medicine.
-
 Constituting International Politics as Governing the In-Between:A Praxeological Analysis of the International Sanitary Conference of
 1892.
 
@@ -36,5 +34,3 @@ Constituting International Politics as Governing the In-Between:A Praxeological 
 Policies of Inequity. A Global History of Diarrheal Diseases (Book project).
 
 How Professions Maintain Coloniality. The History of Travel Medicine.
-
-(with Florian Börgel): Legitimation in the Digital Age. When are IOs Heard on Twitter? Domination and Diarrheal Diseases. Toward a Classical Realist Theory of Expertise.
