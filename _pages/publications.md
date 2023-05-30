@@ -17,9 +17,9 @@ author_profile: true
 # Peer-reviewed articles
 Aue, Luis / Börgel, Florian (forthcoming): "From “Bangtan Boys” to “International Relations Professor”: Mapping Self-Identifications in the UN’s Twitter Public", Politics and Governance. 
 
-Aue, Luis / Hanrieder, Tine (2023): "The quest for diffusible community health worker projects and the pitfalls of scaling culture", Critical Public Health, https://doi.org/10.1080/09581596.2023.2214689.
+Aue, Luis / Hanrieder, Tine (2023): "The quest for diffusible community health worker projects and the pitfalls of scaling culture", Critical Public Health, [https://doi.org/10.1080/09581596.2023.2214689] (URL).
 
-Recommended citation: Aue, Luis (2021): "How Do Metrics Shape Polities? From Analogue to Digital Measurement Regimes in International Health Politics", International Political Sociology, https://doi.org/10.1093/ips/olaa018.
+Recommended citation: Aue, Luis (2021): "How Do Metrics Shape Polities? From Analogue to Digital Measurement Regimes in International Health Politics", International Political Sociology, [https://doi.org/10.1093/ips/olaa018] (URL).
 # Book chapters
 Aue, Luis (forthcoming): Knowledge regimes in international health politics, in Handbook of Knowledge and Expertise in International Politics, Oxford: Oxford University Press.
 
