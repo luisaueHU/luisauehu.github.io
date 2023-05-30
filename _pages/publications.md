@@ -17,14 +17,14 @@ author_profile: true
 # Peer-reviewed articles
 Aue, Luis / Börgel, Florian (forthcoming): "From “Bangtan Boys” to “International Relations Professor”: Mapping Self-Identifications in the UN’s Twitter Public", Politics and Governance. 
 
-Aue, Luis / Hanrieder, Tine (2023): "The quest for diffusible community health worker projects and the pitfalls of scaling culture", Critical Public Health, [https://doi.org/10.1080/09581596.2023.2214689] (https://doi.org/10.1080/09581596.2023.2214689).
+Aue, Luis / Hanrieder, Tine (2023): "The quest for diffusible community health worker projects and the pitfalls of scaling culture", Critical Public Health, https://doi.org/10.1080/09581596.2023.2214689.
 
-Recommended citation: Aue, Luis (2021): "How Do Metrics Shape Polities? From Analogue to Digital Measurement Regimes in International Health Politics", International Political Sociology, [https://doi.org/10.1093/ips/olaa018] (https://doi.org/10.1093/ips/olaa018).
+Aue, Luis (2021): "How Do Metrics Shape Polities? From Analogue to Digital Measurement Regimes in International Health Politics", International Political Sociology, https://doi.org/10.1093/ips/olaa018.
 # Book chapters
 Aue, Luis (forthcoming): Knowledge regimes in international health politics, in Handbook of Knowledge and Expertise in International Politics, Oxford: Oxford University Press.
 
 # Other publications
-Aue, Luis (2022): Technologischer Optimismus reicht nicht. Lehren aus dem internationalen Kampf gegen die Cholera im 19. Jahrhundert, in WZB Mitteilungen, March 2022.
+Aue, Luis (2022): Technologischer Optimismus reicht nicht. Lehren aus dem internationalen Kampf gegen die Cholera im 19. Jahrhundert, in WZB Mitteilungen, March 2022, https://www.wzb.eu/de/publikationen/wzb-mitteilungen/nr-175-gesundheit.
 
 Aue, Luis (2022): Inequality in Global Health Expertise – and Steps Toward a Pragmatic Critique: Advantages of a Comparative Perspective, The Global. Rethinking Global Governance blog, posted on 15 February 2022.
 
