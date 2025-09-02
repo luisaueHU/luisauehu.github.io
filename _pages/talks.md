@@ -4,8 +4,21 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+From Objects of Expertise to Objects of Experience: The Iterative Picturing of Contagion (with Dr. des. Katharina Krause), Annual conference of the working group International Political Sociology of the German Association for Political Science November 2024.
 
-Experts, authority and the ontopolitics of the International at the International Sanitary Conference of 1892, 15th Pan-European Conference on International Relations, Athens, September 2022.
+Domination in the Laboratory: The Expert Politics of Policy Divergence in the History of Diarrheal Diseases, SHETalk Series, Center for Sustainable Health Care Education, University Oslo, October 2024
+
+Eastern Internationalism in Practice: The history of East Germany’s Tropical Medicine, 17th Pan-European Conference on International Relations, Lille, August 2024.
+
+Participation Roundtable Teaching International Political Sociology, 17th Pan-European Conference on International Relations, Lille, August 2024.
+
+Domination in the Laboratory: A North-South History of Diarrhea Technologies, EASST-4S, Amsterdam, Juli 2024.
+
+The forging of East German Tropical Medicine. Medical Internationalism between International Solidarity, Medical Whiteness, and Shortages, Workshop Socialist Governmentality, Institute for the History of Medicine and Ethics in Medicine, Charité Universitätsmedizin Berlin, September 2023.
+
+Establishing the Health Governance of Flows. Expert Politics at the International Sanitary Conference of 1892, 16th Pan-European Conference on International Relations, Potsdam, September 2023.
+
+(with Florian Börgel): How do IOs communicate on Twitter?, Workshop on Publics in Global Politics, University of Bielefeld and Max Planck Institute for Comparative Public Law and International Law, online, December 2022.
 
 The making of a traveler’s diarrhea: A contribution to the postcolonial sociology of medicine, Annual conference Society for the Advancement of Socio-Economics, Mini-conference Decolonizing Development (organized by Julian Go, Zophia Edwards, and Alexandre White), Amsterdam, July 2022.
 
