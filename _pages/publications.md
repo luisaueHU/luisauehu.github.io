@@ -30,7 +30,7 @@ Aue, Luis / Hanrieder, Tine (2023): "The quest for diffusible community health w
 Aue, Luis (2021): "How Do Metrics Shape Polities? From Analogue to Digital Measurement Regimes in International Health Politics", International Political Sociology, https://doi.org/10.1093/ips/olaa018.
 
 # Book chapters
-Aue, Luis (2025): Knowledge regimes in international health politics, in Handbook of Knowledge and Expertise in International Politics, Oxford: Oxford University Press.
+Aue, Luis (2025): Knowledge Regimes and the Postcolonial Hierarchies of International Health Quantification, in Handbook of Knowledge and Expertise in International Politics, Oxford: Oxford University Press, Ch. 44.
 
 # Other publications
 Aue, Luis (2022): Technologischer Optimismus reicht nicht. Lehren aus dem internationalen Kampf gegen die Cholera im 19. Jahrhundert, in WZB Mitteilungen, March 2022, https://www.wzb.eu/de/publikationen/wzb-mitteilungen/nr-175-gesundheit.
