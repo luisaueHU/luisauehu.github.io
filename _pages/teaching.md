@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+BA Seminar Globale Gesundheitspolitik, Universität Potsdam, 2024.
 
 MA Seminar Globales Regieren ‘The International Political Sociology of the Body in Health and Security Politics,’ Otto-Suhr Institute, Free University Berlin, 2022.
 
